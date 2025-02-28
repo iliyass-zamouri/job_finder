@@ -1,0 +1,12 @@
+*.pyc
+doc/.*
+partner/.*
+nohup.out
+.idea/*
+.vscode/*
+.env
+venv
+*.iml
+.DS_Store
+downloaded_files
+screenshot.png
